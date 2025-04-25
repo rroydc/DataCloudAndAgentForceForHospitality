@@ -1,4 +1,4 @@
-**Sunshine Trail Resorts**</br>
+[**Sunshine Trail Resorts**</br>
 =======================
 Welcome to Sunshine Trail Resorts, a sample hospitality application. Sunshine Trail Resorts is a fictional resort that uses Agentforce, Data Cloud, and the Salesforce Platform to deliver highly personalized guest experiences. Explore ways to bring agents into business workflows, including new smart automation capabilities, Search Property, content generation.
 
@@ -643,3 +643,4 @@ grant select on tables in <<database_name>>.<<schema>> to role sysadmin
    |  | **Streaming - Insert Objects step** </br>- Setup the Salesforce Streaming Insert Object connector (to connect Mule to Salesforce), by providing appropriate Username, Password, Client Id and Client Secret </br>- Configure the connector by providing Source API Name: Mulesoft_Ingestion_API and Object: Order | ![187](https://git.soma.salesforce.com/gdevadoss/DataCloudHospitalityDemo/assets/59551/69534670-df76-4cfb-8c0b-3a7212f541fc) ![188](https://git.soma.salesforce.com/gdevadoss/DataCloudHospitalityDemo/assets/59551/a52bb7b2-683d-49d5-98ba-e2d3e2107503) |
 
 </details>
+](https://github.com/salesforce-misc/DataCloudAndAgentForceForHospitality/compare/main...rroydc:DataCloudAndAgentForceForHospitality:patch-1)
